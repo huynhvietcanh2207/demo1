@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 week 1 cua week1
+=======
+week1 cua main
+>>>>>>> main
